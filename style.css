@@ -1,0 +1,25 @@
+body{
+    background-color: #d3d3d3;
+}
+header{
+    background: url("background.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+section i{
+    font-size: 4.5rem;
+}
+footer i{
+    font-size: 2rem;
+}
+.imagem{
+    background: url("iphone.jpg") no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
